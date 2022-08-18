@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597750047344",
+    "project_id": "photo-sharing-cloneapp-c3b6c",
+    "storage_bucket": "photo-sharing-cloneapp-c3b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597750047344:android:f6b519937f959a50714ab5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pineterest_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597750047344-4i6gs7f66rusa25c1qr2b8cm7p7m3drc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtQ5iteEfxiBYvkaX64MIlbTo8Ae9-sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597750047344-4i6gs7f66rusa25c1qr2b8cm7p7m3drc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
